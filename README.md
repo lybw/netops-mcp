@@ -1,5 +1,8 @@
 # netops-mcp
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Go Report Card](https://goreportcard.com/badge/github.com/lybw/netops-mcp)](https://goreportcard.com/report/github.com/lybw/netops-mcp)
+
 A Model Context Protocol (MCP) server for network operations. Gives AI agents the ability to discover devices, scan ports, fingerprint operating systems, and look up MAC vendors on local networks.
 
 Built on [netkit](https://github.com/lybw/netkit) and [mcp-go](https://github.com/mark3labs/mcp-go).
